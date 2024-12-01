@@ -1,0 +1,6 @@
+express
+body-parser
+mongoose
+jsonwebtoken
+express-validator
+bcryptjs
